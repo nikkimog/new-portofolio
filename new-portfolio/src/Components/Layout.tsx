@@ -61,7 +61,7 @@ export const Layout = () => {
             value="/contact-me"
           />
           <Tab
-            label="Photography"
+            label="Photos"
             component={Link}
             to="/photography"
             value="/photography"
