@@ -1,6 +1,6 @@
 {
-    "compilerOptions": {
-      "jsx": "react-jsx"
-    }
-  }
-  
+  "compilerOptions": {
+    "jsx": "react-jsx"
+  },
+  "TSC_COMPOILE_ON_ERROR": "true"
+}
