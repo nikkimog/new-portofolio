@@ -1,11 +1,4 @@
-import {
-  Box,
-  Link,
-  Button,
-  Typography,
-  useMediaQuery,
-  useTheme,
-} from "@mui/material";
+import { Box, useMediaQuery, useTheme } from "@mui/material";
 import PhotographySection from "../Components/PhotographySection";
 import { HashLink } from "react-router-hash-link";
 
