@@ -49,8 +49,12 @@ export const Photography = () => {
           display: "flex",
           padding: smallScreen ? "25px" : "100px",
           justifyContent: "space-evenly",
+          a: {
+            fontSize: "20px",
+            textDecoration: "none",
+            color: "black",
+          },
         }}
-        className="linkBox"
       >
         <HashLink smooth to="/photography/#southafrica">
           South Africa
