@@ -1,12 +1,6 @@
 import { Box, Tab, Tabs, styled, useTheme } from "@mui/material";
 import { useState } from "react";
-import {
-  Link,
-  Routes,
-  Route,
-  useNavigate,
-  BrowserRouter as Router,
-} from "react-router-dom";
+import { Link, Routes, Route, useNavigate } from "react-router-dom";
 import Home from "../Routes/Home";
 import AboutMe from "../Routes/AboutMe";
 import ContactMe from "../Routes/ContactMe";
